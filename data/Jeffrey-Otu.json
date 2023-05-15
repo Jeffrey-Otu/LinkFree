@@ -1,0 +1,27 @@
+{
+  "name": "Jeffrey Awuah Otu",
+  "type": "personal",
+  "bio": "Data Center Officer, Part-time"
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Jeff_Jaay",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/jeff.otu",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/Jeffrey-Otu",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://linkedin.com/in/jeffrey-otu",
+      "icon": "FaLinkedin"
+    },
+  ]
+}
